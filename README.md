@@ -24,5 +24,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SinaO7/SinaO7/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SinaO7/SinaO7/output/github-snake.svg" />
 </picture>
-
-⚡ Fun fact A Stack Overflow survey found that ~75% of developers<br> drink coffee, tea, or other caffeinated drinks while coding.<br> Some even joke that coffee is the "programmer’s fuel."
