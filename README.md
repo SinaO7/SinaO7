@@ -2,7 +2,7 @@
 ## 🥨About me
 🔭 I’m currently working on my web page<br>🤝 I’m very will be happy to help me on my web page<br>
 🌱 I’m currently learning and Studying<br>💬 Ask me any thing i can answer that<br>
-⚡ Fun fact A Stack Overflow survey found that ~75% of developers<br>                                                    ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SinaO7)
+⚡ Fun fact A Stack Overflow survey found that ~75% of developers ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SinaO7)
 drink coffee, tea, or other caffeinated drinks while coding.<br>
 Some even joke that coffee is the "programmer’s fuel."
 
